@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Elevador {
+public class Main {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int pinicio,pdestino;
@@ -34,6 +34,6 @@ public class Elevador {
 
 
 
-        }
+    }
 
 }
